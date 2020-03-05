@@ -15,7 +15,7 @@ public class Pessoa {
 
     public void envelhecer() {
         this.idade += 10;
-        System.out.println("Agora você envelheceu e tem " + this.idade + "anos");
+        System.out.println("Agora você envelheceu e tem " + this.idade + " anos");
     }
 
     public void engordar() {
